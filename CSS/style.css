@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.content h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.content p{
+    font-size: 35px;
+}
+.content button{
+    --bs-btn-bg: #0000FF;
+    --bs-btn-hover-bg: #008000;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px 90px;
+}
